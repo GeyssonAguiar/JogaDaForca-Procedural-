@@ -1,2 +1,2 @@
-Jogo da forca simples feito para treinar lógica.
+Jogo da forca simples.
 
